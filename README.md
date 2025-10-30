@@ -1,14 +1,6 @@
 # Personal README Template
 
-Welcome to BUD's Personal README Template! Simply click "Use this template" above to create your own copy. You may want to read [this explanation](https://growwithbud.notion.site/README-Template-9d4c92efe88944a28a6d82aa33811b77) first.
-
 ### Using your Personal README as a Website to Share
-
-1. Click "Use this template" above to create a copy in your Github space. For help with this see [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Change the repository name to `personal-readme`.
-3. Edit the sections below to make it uniquely yours. Remember to delete everything inside the the `<details>` tags to remove the help tips.
-4. Go to Settings and scroll down to Github Pages then change the source to `master`. You can also set a new theme here.
-5. Visit `https://<your-github-username>.github.io/personal-readme` to see your work!
 
 ## Introduction
 
