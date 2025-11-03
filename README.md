@@ -21,33 +21,33 @@ I am Erica Wolf
 ## Personal Development
 ### What I value
 <details>
-    <summary>Tips</summary>
-What is important to you? What does being good at your job mean to you? What qualities in others do you appreciate?
+I value diversity and teamwork. I most appreciate intelligence and creativity others. Please tell me when I am wrong.
 </details>
 
 ### My strengths
 <details>
-    <summary>Tips</summary>
-I value personal connections more than anything.
+I value personal connections more than anything. Let meet for a coffee! 
 </details>
 
 ### My growth areas
 <details>
-    <summary>Tips</summary>
-What do others see that you don’t? What are you working on improving? What can others help you with?
+I am working on being more direct when that is what the other person needs. I lean towards having too much empathy.
 </details>
 
 ### Working Style
 <details>
-    <summary>Tips</summary>
-What motivates you? What helps you to be productive? Do you learn best by reading/writing/hearing/doing? Do you prefer to collaborate with others or work alone?
+No surprise, I am most motivated when working with others. I like to hear what is important and then find laser focus on what needs to be completed to accomplish the most important thing.
 </details>
 
-### What are 3 things that you are proud of?
+### What are some things that you are proud of?
 <details>
-    <summary>MY Daughter (Heidi Bradway)</summary>
+    <summary>My daughter (Heidi Bradway)</summary>
     <summary>My mentees</summary>
-    <summary>My academic publication history</summary>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/kumaric/">Chanda Kumari</a></li>
+        <li><a href="https://www.linkedin.com/in/destineebauza/">Des Gonzalez Bauza</a></li>
+    </ul>
+    <summary>Problems where I was able to contribute to a solution</summary>
 </details>
 
 
