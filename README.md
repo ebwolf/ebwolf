@@ -4,30 +4,23 @@
 
 ## Introduction
 
-<details>
-    <summary>Tips</summary>
-I am Erica Wolf
-</details>
+
+I am Erica Wolf an inclusive software leader building high trust teams. I most value people who tell me that I am wrong, especially when wielding authority, and give who me pause to consider their solutions. 
 
 ## Fast Facts
 
-
 </br><b>I first was paid to write code in 1987</b></br>
 
-</br><b>I head the title of Senior Programmer in 1997 <A HREF='https://blogoscoped.com/archive/2007-12-28-n47.html'>When Google was still called 'BackRub'</A></b></br>
+</br><b>I head the title of Senior Programmer in 1997 <A HREF='https://blogoscoped.com/archive/2007-12-28-n47.html'></br>When Google was still called 'BackRub'</A></b></br>
 
 </br><b>Fun facts:</b>
 
 ## Personal Development
 ### What I value
-<details>
 I value diversity and teamwork. I most appreciate intelligence and creativity others. Please tell me when I am wrong.
-</details>
 
 ### My strengths
-<details>
 I value personal connections more than anything. Let meet for a coffee! 
-</details>
 
 ### My growth areas
 I am working on being more direct when that is what the other person needs. I lean towards having too much empathy.
