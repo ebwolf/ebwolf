@@ -9,11 +9,27 @@ I am Erica Wolf an inclusive software leader building high trust teams. I most v
 
 ## Fast Facts
 
-</br><b>I first was paid to write code in 1987</b></br>
+<ul>
+<li>I first was paid to write code in 1987</li>
 
-</br><b>I head the title of Senior Programmer in 1997 <A HREF='https://blogoscoped.com/archive/2007-12-28-n47.html'></br>When Google was still called 'BackRub'</A></b></br>
+<li>I head the title of Senior Programmer in 1997 <A HREF='https://blogoscoped.com/archive/2007-12-28-n47.html'></li>
+    
+<li>At that time Google was still called 'BackRub'</li>
+</ul>
 
-</br><b>Fun facts:</b>
+## Fun facts
+<ul>
+    <li>I am an Air Force brat, I was born in Germany. My father lived here more than 5 years before I was born but never had a residence permit.</li>
+    <li>I have lived many lives and worn many hats</li>
+    <ul>
+        <li>Cartography researcher</li>
+        <li>Yoga Teacher</li>
+        <li>Van-lifer (Westy hardtop)</li>
+        <li>Dog agility trainer</li>
+        <li>Amateur pilot</li>
+        <li>Amateur race car driver</li>
+    </ul>
+</ul>
 
 ## Personal Development
 ### What I value
