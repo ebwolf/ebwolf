@@ -50,24 +50,19 @@ No surprise, I am most motivated when working with others. I like to hear what i
 <li>My daughter (Heidi Bradway)</li>
 <li>My mentees</li>
 <ul>
-    <li><a href="https://www.linkedin.com/in/kumaric/">Chanda Kumari</a></li>
     <li><a href="https://www.linkedin.com/in/destineebauza/">Des Gonzalez Bauza</a></li>
+    <li><a href="https://www.linkedin.com/in/becca-rodriguez/">Rebecca Rodriguez</a></li>
+    <li><a href="https://www.linkedin.com/in/mrunali-zode/">Mrunali Zode</a></li>
+    <li><a href="https://www.linkedin.com/in/becca-rodriguez/">Neeraja Theloor Parthasarathy</a></li>
+    <li><a href="https://www.linkedin.com/in/kumaric/">Chanda Kumari</a></li>
 </ul>
 <li>Problems where I was able to contribute to a solution, especially when Ican encourage others to contribute great ideas</li>
 
 ## Working With Me
 
 ### How I communicate
-<details>
-    <summary>Tips</summary>
-    Do you tend to communicate directly or indirectly? How do you prefer to be approached or stay in sync with others (Slack/email/video calls/phone calls)? When can others expect a response from you?
-</details>
+The best way to reach me is asynchronousy (<a href="mailto=ebwolf@mgmail.com">email</a>, slack, discord, Instagram, <a href="https://www.facebook.com/TiaLobo0807">FB</a>, <a href="https://www.linkedin.com/in/ebwolf/">LinkedIn</a>, etc). Synchronously I prefer video conference (Zoom, Slack Huddle, Google Meet, Microsoft Teams).
 
-### How I like to receive feedback
-<details>
-    <summary>Tips</summary>
-How do you prefer to receive it (written/verbal/face-to-face)? When do you prefer to receive it (when it happens/our next meeting)?
-</details>
 
 ### What gains and loses my trust
 I grant trust easily, this is my default setting. Losing trust takes effort on your part, usually this comes in the form of not delivering without a good reason. A good reason is something temporary, if you have regular issues that impact delivery, let me know. I may not rely on you as much, but I will trust you more. 
@@ -75,11 +70,9 @@ I grant trust easily, this is my default setting. Losing trust takes effort on y
 ### How to help me
 The best way to help me is to ask me for my help. I love being helpful, but I want guidance on how to help you the most.
 
-
 ### What people misunderstand about me
 <ul>
     <li>Probably the biggest challenges are from assumptions about me. For instance, people regularly assume that I am a man, in fact, in Berlin, it feels like many people assume that I am a gay man who likes to dress femme. I am a woman.</li>
-
-    <li>People who assume I can ´piss code´ (as a friend once put it). Yes, I can do the technical things (I have written C/C++, Perl, SQL, Python, Java, Groovy, FoxPro), but if you want me to conribute most effectively, put me in a leadership role where I can leverage the brilliance of others. Let me save my code for where it is most effective (shared libraries, sample code, demonstrating best-practices).</li>
+<li>People who assume I can ´piss code´ (as a friend once put it). Yes, I can do the technical things (I have written C/C++, Perl, SQL, Python, Java, Groovy, FoxPro), but if you want me to conribute most effectively, put me in a leadership role where I can leverage the brilliance of others. Let me save my code for where it is most effective (shared libraries, sample code, demonstrating best-practices).</li>
 </ul>
 
