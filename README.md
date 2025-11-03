@@ -30,17 +30,12 @@ I value personal connections more than anything. Let meet for a coffee!
 </details>
 
 ### My growth areas
-<details>
 I am working on being more direct when that is what the other person needs. I lean towards having too much empathy.
-</details>
 
 ### Working Style
-<details>
 No surprise, I am most motivated when working with others. I like to hear what is important and then find laser focus on what needs to be completed to accomplish the most important thing.
-</details>
 
 ### What are some things that you are proud of?
-<details>
     <summary>My daughter (Heidi Bradway)</summary>
     <summary>My mentees</summary>
     <ul>
@@ -48,8 +43,6 @@ No surprise, I am most motivated when working with others. I like to hear what i
         <li><a href="https://www.linkedin.com/in/destineebauza/">Des Gonzalez Bauza</a></li>
     </ul>
     <summary>Problems where I was able to contribute to a solution</summary>
-</details>
-
 
 ## Working With Me
 
