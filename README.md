@@ -45,13 +45,15 @@ I am working on being more direct when that is what the other person needs. I le
 No surprise, I am most motivated when working with others. I like to hear what is important and then find laser focus on what needs to be completed to accomplish the most important thing.
 
 ### What are some things that you are proud of?
-    <summary>My daughter (Heidi Bradway)</summary>
-    <summary>My mentees</summary>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/kumaric/">Chanda Kumari</a></li>
-        <li><a href="https://www.linkedin.com/in/destineebauza/">Des Gonzalez Bauza</a></li>
-    </ul>
-    <summary>Problems where I was able to contribute to a solution</summary>
+
+<ul>
+<li>My daughter (Heidi Bradway)</li>
+<li>My mentees</li>
+<ul>
+    <li><a href="https://www.linkedin.com/in/kumaric/">Chanda Kumari</a></li>
+    <li><a href="https://www.linkedin.com/in/destineebauza/">Des Gonzalez Bauza</a></li>
+</ul>
+<li>>Problems where I was able to contribute to a solution, especially when Ican encourage others to contribute great ideas</li>
 
 ## Working With Me
 
