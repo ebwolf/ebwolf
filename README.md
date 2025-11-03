@@ -53,7 +53,7 @@ No surprise, I am most motivated when working with others. I like to hear what i
     <li><a href="https://www.linkedin.com/in/kumaric/">Chanda Kumari</a></li>
     <li><a href="https://www.linkedin.com/in/destineebauza/">Des Gonzalez Bauza</a></li>
 </ul>
-<li>>Problems where I was able to contribute to a solution, especially when Ican encourage others to contribute great ideas</li>
+<li>Problems where I was able to contribute to a solution, especially when Ican encourage others to contribute great ideas</li>
 
 ## Working With Me
 
@@ -70,34 +70,16 @@ How do you prefer to receive it (written/verbal/face-to-face)? When do you prefe
 </details>
 
 ### What gains and loses my trust
-<details>
-    <summary>Tips</summary>
-What actions can a person take to gain your trust? Conversely, what triggers you to lose trust?
-</details>
+I grant trust easily, this is my default setting. Losing trust takes effort on your part, usually this comes in the form of not delivering without a good reason. A good reason is something temporary, if you have regular issues that impact delivery, let me know. I may not rely on you as much, but I will trust you more. 
 
 ### How to help me
-<details>
-    <summary>Tips</summary>
-What is the best way to approach you? What is the best way to convey information to you?
-</details>
+The best way to help me is to ask me for my help. I love being helpful, but I want guidance on how to help you the most.
+
 
 ### What people misunderstand about me
-<details>
-    <summary>Tips</summary>
-What’s the cause of misunderstandings that you’ve had in the past? What behaviours of yours might unintentionally annoy a different personality type?
-</details>
+<ul>
+    <li>Probably the biggest challenges are from assumptions about me. For instance, people regularly assume that I am a man, in fact, in Berlin, it feels like many people assume that I am a gay man who likes to dress femme. I am a woman.</li>
 
-
-## SheSharp Mentorship Program Goals & Expectations
-### My goal for this program
-<details>
-    <summary>Tips</summary> 
-    What are you hoping to achieve in the next 12 weeks?
-</details>
-
-### My expectations of my BUD (mentor/mentee)
-
-
-### What you can expect of me
-
+    <li>People who assume I can ´piss code´ (as a friend once put it). Yes, I can do the technical things (I have written C/C++, Perl, SQL, Python, Java, Groovy, FoxPro), but if you want me to conribute most effectively, put me in a leadership role where I can leverage the brilliance of others. Let me save my code for where it is most effective (shared libraries, sample code, demonstrating best-practices).</li>
+</ul>
 
