@@ -48,15 +48,13 @@ No surprise, I am most motivated when working with others. I like to hear what i
 
 <ul>
 <li>My daughter (Heidi Bradway)</li>
+<li>Problems where I was able to contribute to a solution, especially when I can encourage others to contribute great ideas</li>
 <li>My mentees</li>
 <ul>
     <li><a href="https://www.linkedin.com/in/destineebauza/">Des Gonzalez Bauza</a></li>
     <li><a href="https://www.linkedin.com/in/becca-rodriguez/">Rebecca Rodriguez</a></li>
     <li><a href="https://www.linkedin.com/in/becca-rodriguez/">Neeraja Theloor Parthasarathy</a></li>
     <li><a href="https://www.linkedin.com/in/kumaric/">Chanda Kumari</a></li>
-</ul>
-<ul>
-<li>Problems where I was able to contribute to a solution, especially when I can encourage others to contribute great ideas</li>
 </ul>
     
 ## Working With Me
