@@ -36,7 +36,7 @@ I am Erica Wolf an inclusive software leader building high trust teams. I most v
 I value diversity and teamwork. I most appreciate intelligence and creativity others. Please tell me when I am wrong.
 
 ### My strengths
-I value personal connections more than anything. Let meet for a coffee! 
+I value personal connections above all else. Let's meet for a coffee! 
 
 ### My growth areas
 I am working on being more direct when that is what the other person needs. I lean towards having too much empathy.
@@ -64,14 +64,14 @@ The best way to reach me is asynchronousy (<a href="mailto=ebwolf@mgmail.com">em
 
 
 ### What gains and loses my trust
-I grant trust easily, this is my default setting. Losing trust takes effort on your part, usually this comes in the form of not delivering without a good reason. A good reason is something temporary, if you have regular issues that impact delivery, let me know. I may not rely on you as much, but I will trust you more. 
+I grant trust easily; this is my default setting. Losing trust takes effort on your part; usually, this comes in the form of not delivering without a good reason. A good reason is something temporary; if you have regular issues that impact delivery, let me know. I may not rely on you as much, but I will trust you more. 
 
 ### How to help me
 The best way to help me is to ask me for my help. I love being helpful, but I want guidance on how to help you the most.
 
 ### What people misunderstand about me
 <ul>
-    <li>Probably the biggest challenges are from assumptions about me. For instance, people regularly assume that I am a man, in fact, in Berlin, it feels like many people assume that I am a gay man who likes to dress femme. I am a woman.</li>
+    <li> The biggest challenges are from assumptions about me. For instance, people regularly assume that I am a man; in fact, in Berlin, it feels like many people assume that I am a gay man who likes to dress femme. I am a woman.</li>
 <li>People who assume I can ´piss code´ (as a friend once put it). Yes, I can do the technical things (I have written C/C++, Perl, SQL, Python, Java, Groovy, FoxPro), but if you want me to conribute most effectively, put me in a leadership role where I can leverage the brilliance of others. Let me save my code for where it is most effective (shared libraries, sample code, demonstrating best-practices).</li>
 </ul>
 
