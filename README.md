@@ -10,9 +10,7 @@ I am Erica Wolf an inclusive software leader building high trust teams. I most v
 <ul>
 <li>I first was paid to write code in 1987</li>
 
-<li>I head the title of Senior Programmer in 1997 <A HREF='https://blogoscoped.com/archive/2007-12-28-n47.html'></li>
-    
-<li>At that time Google was still called 'BackRub'</li>
+<li>I head the title of Senior Programmer in 1997 <A HREF='https://blogoscoped.com/archive/2007-12-28-n47.html'>(When Google was still called 'BackRub')</li>
 </ul>
 
 ## Fun facts
