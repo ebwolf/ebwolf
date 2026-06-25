@@ -1,6 +1,4 @@
-# Personal README Template
-
-### Using your Personal README as a Website to Share
+# Personal README
 
 ## Introduction
 
@@ -24,7 +22,7 @@ I am Erica Wolf an inclusive software leader building high trust teams. I most v
     <ul>
         <li>Cartography researcher</li>
         <li>Yoga Teacher</li>
-        <li>Van-lifer (Westy hardtop)</li>
+        <li>Van-lifer (1974 Westfalia hardtop)</li>
         <li>Dog agility trainer</li>
         <li>Amateur pilot</li>
         <li>Amateur race car driver</li>
@@ -33,7 +31,7 @@ I am Erica Wolf an inclusive software leader building high trust teams. I most v
 
 ## Personal Development
 ### What I value
-I value diversity and teamwork. I most appreciate intelligence and creativity others. Please tell me when I am wrong.
+I value diversity and teamwork. I most appreciate intelligence and creativity in others. Please tell me when I am wrong.
 
 ### My strengths
 I value personal connections above all else. Let's meet for a coffee! 
