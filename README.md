@@ -17,8 +17,10 @@ I am Erica Wolf an inclusive software leader building high trust teams. I most v
 <ul>
     <li>I am an Air Force brat, I was born in Germany. My father lived here more than 5 years before I was born but never had a residence permit.</li>
     <li>I have lived many lives and worn many hats</li>
+    <br>
     <ul>
-        <li>Cartography researcher</li>
+        <li>Mathematician (BS 2004)</li>
+        <li>Cartography researcher at the USGS</li>
         <li>Yoga Teacher</li>
         <li>Van-lifer (1974 Westfalia hardtop)</li>
         <li>Dog agility trainer</li>
