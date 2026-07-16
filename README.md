@@ -56,12 +56,11 @@ No surprise, I am most motivated when working with others. I like to hear what i
     <li><a href="https://www.linkedin.com/in/kumaric/">Chanda Kumari</a></li>
     <li><a href="https://www.linkedin.com/in/tzipi-schindler/">Tzipi Schindler</a></li>
 </ul>
-
+<br>
    In addition to being a mentor, I have been mentored by some great people.
 <ul> 
-    <li>Domeone at Netapp, who I've lost touch with</a></li>
+    <li>Someone at Netapp, who I've lost touch with</a></li>
     <li><a href="https://www.linkedin.com/in/michelleamcdaid/">Michelle McDaid</a></li>
-   
 </ul>    
 ## Working With Me
 
