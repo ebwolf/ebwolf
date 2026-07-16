@@ -62,8 +62,8 @@ No surprise, I am most motivated when working with others. I like to hear what i
     <li>Someone at Netapp, who I've lost touch with</a></li>
     <li><a href="https://www.linkedin.com/in/michelleamcdaid/">Michelle McDaid</a></li>
 </ul>    
+    
 ## Working With Me
-
 ### How I communicate
 The best way to reach me is asynchronousy (<a href="mailto=ebwolf@mgmail.com">email</a>, slack, discord, Instagram, <a href="https://www.facebook.com/TiaLobo0807">FB</a>, <a href="https://www.linkedin.com/in/ebwolf/">LinkedIn</a>, etc). Synchronously I prefer video conference (Zoom, Slack Huddle, Google Meet, Microsoft Teams).
 
